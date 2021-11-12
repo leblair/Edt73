@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Edt73</string>
+    <string name="button1">Fat Mass</string>
+    <string name="button2">Wan Vael</string>
+    <string name="button3">Lorentz</string>
+    <string name="button4">Creff</string>
+    <string name="titulo">Body Mass</string>
+    <string name="height">Height (Cm)</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="calculate">calculate</string>
+    <string name="waist">Waist circumference (Cm)</string>
+
+
+</resources>
